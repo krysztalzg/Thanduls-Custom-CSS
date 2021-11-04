@@ -13,15 +13,11 @@
     "./thandul.css"
   ],
   "packs": [],
-  "system": [
-    "dnd5e"
-  ],
   "dependencies": [],
   "socket": true,
-  "manifest": "https://raw.githubusercontent.com/krysztalzg/Thanduls-Custom-CSS/master/module.json",
-  "download": "https://raw.githubusercontent.com/krysztalzg/Thanduls-Custom-CSS/master/thandulscustomcss.zip",
+  "manifest": "https://raw.githubusercontent.com/krysztalzg/Thanduls-Custom-CSS/main/thandulscustomcss/module.json",
+  "download": "https://github.com/krysztalzg/Thanduls-Custom-CSS/blob/main/thandulscustomcss.zip",
   "protected": false,
   "coreTranslation": false,
-  "minimumSystemVersion": "1.5.2",
   "library": false
 }
