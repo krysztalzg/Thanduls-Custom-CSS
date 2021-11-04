@@ -1,0 +1,27 @@
+{
+  "name": "thandulscustomcss",
+  "title": "Thandul's custom CSS",
+  "description": "This is a small module that modifies CSS of core Foundry, selected systems and modules",
+  "author": "Thandulfan#0087",
+  "authors": [],
+  "url": "https://github.com/krysztalzg/Thanduls-Custom-CSS",
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.9",
+  "styles": [
+    "./thandul.css"
+  ],
+  "packs": [],
+  "system": [
+    "dnd5e"
+  ],
+  "dependencies": [],
+  "socket": true,
+  "manifest": "https://raw.githubusercontent.com/krysztalzg/Thanduls-Custom-CSS/master/module.json",
+  "download": "https://raw.githubusercontent.com/krysztalzg/Thanduls-Custom-CSS/master/thandulscustomcss.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "minimumSystemVersion": "1.5.2",
+  "library": false
+}

@@ -1,0 +1,21 @@
+/* Control Weather */
+#calendar > footer,
+#calendar > div > section.clock,
+#calendar > header > div:nth-child(1),
+#calendar > header > div:nth-child(3)
+{
+    display: none !important;
+}
+
+#date-display {
+    border-bottom: none !important;
+}
+
+/* Tidy 5e Sheet */
+
+.tidy5e.sheet.item .sheet-header .charname input,
+.dnd5e.chat-card .card-header h3,
+.tidy5e.sheet.actor .char-name
+{
+    font-family: var(--signika) !important;
+}
