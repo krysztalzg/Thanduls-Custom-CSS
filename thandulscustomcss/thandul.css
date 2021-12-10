@@ -19,3 +19,13 @@
 {
     font-family: var(--signika) !important;
 }
+
+select option {
+    background: rgba(255, 255, 255, 0.5);
+    color: #000;
+}
+
+select option:hover {
+    background: rgba(80, 80, 80, 0.5);
+    color: rgb(255, 255, 255);
+}
